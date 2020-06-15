@@ -3,9 +3,9 @@
 #include <cmath>
 #include <iostream>
 
-#include "input_image.h"  //contains the first sample taken from the MNIST test set
+#include "input_image.h"  // contains the first sample taken from the MNIST test set
 #include "mbed.h"
-#include "models/my_model/my_model.hpp"  //gernerated model file"
+#include "models/my_model/my_model.hpp"  // generated model file
 #include "uTensor.h"
 
 using namespace uTensor;
